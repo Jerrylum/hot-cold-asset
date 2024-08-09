@@ -77,6 +77,26 @@
                 ],
                 "version": "4.1.0"
             },
+            "libhot-cold-asset-repo": {
+                "location": "C:\\Users\\Jerrylum\\AppData\\Roaming\\PROS\\templates\\libhot-cold-asset-repo@1.0.0",
+                "metadata": {
+                    "origin": "local"
+                },
+                "name": "libhot-cold-asset-repo",
+                "py/object": "pros.conductor.templates.local_template.LocalTemplate",
+                "supported_kernels": "^4.1.0",
+                "system_files": [
+                    "include\\gif-pros\\gifclass.hpp",
+                    "firmware\\libhot-cold-asset-repo.a",
+                    "include\\asset.h",
+                    "firmware\\hot-cold-asset.mk",
+                    "static\\hot_chip.gif",
+                    "include\\gif-pros\\gifdec.h"
+                ],
+                "target": "v5",
+                "user_files": [],
+                "version": "1.0.0"
+            },
             "liblvgl": {
                 "location": "C:\\Users\\Jerrylum\\AppData\\Roaming\\PROS\\templates\\liblvgl@8.3.8",
                 "metadata": {

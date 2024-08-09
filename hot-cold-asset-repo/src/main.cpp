@@ -4,7 +4,8 @@
 #include "gif-pros/gifclass.hpp"
 #include "liblvgl/lvgl.h"
 
-ASSET(chip_gif)
+ASSET_LIB(chip_gif)
+ASSET(hot_chip_gif)
 
 static void draw_image(lv_obj_t *canvas, int x, int y, v5_image *image) {
   int start_x = x;
