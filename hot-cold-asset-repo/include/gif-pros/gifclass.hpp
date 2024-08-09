@@ -1,5 +1,6 @@
 #pragma once
 #include "main.h"
+#include "asset.h"
 #include "gifdec.h"
 
 /**
