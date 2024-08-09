@@ -82,4 +82,6 @@
 #include "pros/vision.hpp"
 #endif
 
+#include "asset.h"
+
 #endif  // _PROS_API_H_
